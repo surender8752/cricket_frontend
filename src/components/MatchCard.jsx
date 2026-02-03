@@ -122,7 +122,7 @@ const MatchCard = ({ match }) => {
                 </span>
             </div>
 
-            <div className="card-footer" style={{ marginTop: 'var(--space-md)', textAlign: 'right', fontSize: '0.75rem', color: 'var(--primary-400)', fontWeight: '600' }}>
+            <div className="card-footer-link">
                 View Scorecard →
             </div>
         </div>
